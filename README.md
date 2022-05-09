@@ -1,10 +1,15 @@
-# Getting Started
+### 2022  🚩 TodoList
 
-### Reference Documentation
+**📰 LANGUAGE**
+* [ ] Python (Learning...)
 
-For further reference, please consider the following sections:
+**💻 OPEN SOURCE**
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.4/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.5.4/maven-plugin/reference/html/#build-image)
+**💻 LEETCODE**
+* [ ] 200 (Doing...)
+* [ ] take notes of the algorithm (Doing...)
 
+**📚 BOOKS**
+
+* [x] 《软技能：代码之外的生存指南》★★★★☆
+* [ ] 《操作系统导论》

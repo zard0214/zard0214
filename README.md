@@ -1,4 +1,4 @@
-### 2022  🚩 TodoList
+### 2022  🚩 ToDoList
 
 **📰 LANGUAGE**
 * [ ] Python (Learning...)

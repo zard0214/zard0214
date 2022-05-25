@@ -3,7 +3,9 @@
 **📰 LANGUAGE**
 * [ ] Python (Learning...) ★☆☆☆☆
 
-**💻 OPEN SOURCE**
+**💻 NLP**
+* [ ] learn basic knowledge in ML/DL (Doing...)
+* [ ] find a specific research area in NLP (Doing...)
 
 **💻 LEETCODE**
 * [ ] 200 (Doing...) ★★★★☆

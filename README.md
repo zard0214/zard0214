@@ -8,7 +8,7 @@
 * [ ] find a specific research area in NLP ☆☆☆☆☆
 
 **💻 LEETCODE**
-* [ ] 200 (Doing...) ★★★★☆
+* [x] 200 (Doing...) ★★★★★
 * [ ] take notes of the algorithm (Doing...) ★☆☆☆☆
 
 **📚 BOOKS**

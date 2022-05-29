@@ -6,7 +6,7 @@
 
 **💻 NLP**
 
-* [ ] learn basic knowledge in ML/DL ☆☆☆☆☆
+* [ ] learn basic knowledge in ML/DL (Stanford CS224N lecture) ☆☆☆☆☆
 * [ ] find a specific research area in NLP ☆☆☆☆☆
 
 **💻 LEETCODE**

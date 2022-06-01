@@ -8,7 +8,7 @@
 
 * [ ] learn basic knowledge in ML/DL (Stanford CS224N lecture) ☆☆☆☆☆
 * [ ] find a specific research area in NLP ☆☆☆☆☆
-* [ ] Pandas、XGboost、matplotlib、Keras kits  ☆☆☆☆☆
+* [ ] pandas, xgboost, matplotlib, keras kits  ☆☆☆☆☆
 
 **📚 MATHEMATICS**
 

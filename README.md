@@ -12,7 +12,7 @@
 
 **📚 MATHEMATICS**
 
-* [ ] linear Algebra ☆☆☆☆☆
+* [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆
 * [ ] differential geometry ☆☆☆☆☆
 

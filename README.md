@@ -27,3 +27,5 @@
 **📚 PREPARE**
 
 * [ ] resume (has not started) ☆☆☆☆☆
+
+**📚 MATHEMATICS**

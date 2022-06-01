@@ -2,7 +2,7 @@
 
 **📰 LANGUAGE**
 
-* [ ] Python (Learning...) ★★☆☆☆
+* [ ] python (learning...) ★★☆☆☆
 
 **💻 NLP**
 
@@ -11,14 +11,14 @@
 
 **📚 MATHEMATICS**
 
-* [ ] Linear Algebra ☆☆☆☆☆
-* [ ] Calculus ☆☆☆☆☆
-* [ ] Differential Geometry ☆☆☆☆☆
+* [ ] linear Algebra ☆☆☆☆☆
+* [ ] calculus ☆☆☆☆☆
+* [ ] differential geometry ☆☆☆☆☆
 
 **💻 LEETCODE**
 
-* [x] 200 (Done... aim 375 this year) ★★★★★
-* [ ] take notes of the algorithm (Doing...) ★☆☆☆☆
+* [x] 200 (done... aim 375 this year) ★★★★★
+* [ ] take notes of the algorithm (doing...) ★☆☆☆☆
 
 **📚 BOOKS**
 

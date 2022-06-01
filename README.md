@@ -11,7 +11,7 @@
 
 **💻 LEETCODE**
 
-* [x] 200 (Done) ★★★★★
+* [x] 200 (Done... aim 375 this year) ★★★★★
 * [ ] take notes of the algorithm (Doing...) ★☆☆☆☆
 
 **📚 BOOKS**

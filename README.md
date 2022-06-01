@@ -9,6 +9,12 @@
 * [ ] learn basic knowledge in ML/DL (Stanford CS224N lecture) ☆☆☆☆☆
 * [ ] find a specific research area in NLP ☆☆☆☆☆
 
+**📚 MATHEMATICS**
+
+* [ ] Linear Algebra ☆☆☆☆☆
+* [ ] Calculus ☆☆☆☆☆
+* [ ] Differential Geometry ☆☆☆☆☆
+
 **💻 LEETCODE**
 
 * [x] 200 (Done... aim 375 this year) ★★★★★
@@ -28,4 +34,4 @@
 
 * [ ] resume (has not started) ☆☆☆☆☆
 
-**📚 MATHEMATICS**
+

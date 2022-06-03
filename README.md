@@ -10,11 +10,11 @@
 * [ ] find a specific research area in NLP ☆☆☆☆☆
 * [ ] pandas, xgboost, matplotlib, keras kits  ☆☆☆☆☆
 
-**📚 MATHEMATICS**
+**📚 MATHEMATICS **
 
 * [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆
-* [ ] differential geometry ☆☆☆☆☆
+* [ ] differential geometry ☆☆☆☆☆  (https://space.bilibili.com/66607740/) 
 
 **💻 LEETCODE**
 

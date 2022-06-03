@@ -14,7 +14,7 @@
 
 * [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆
-* [ ] differential geometry ☆☆☆☆☆  (https://space.bilibili.com/66607740/) 
+* [ ] differential geometry ☆☆☆☆☆ 
 
 **💻 LEETCODE**
 

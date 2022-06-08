@@ -7,7 +7,7 @@
 
 **💻 NLP**
 
-* [ ] learn basic knowledge in ML/DL (Stanford CS224N lecture) ☆☆☆☆☆
+* [ ] learn basic knowledge in ML/DL (Stanford CS224N lecture) ★★☆☆☆
 * [ ] find a specific research area in NLP ☆☆☆☆☆
 * [ ] pandas, xgboost, matplotlib, keras kits  ☆☆☆☆☆
 
@@ -20,7 +20,7 @@
 **💻 LEETCODE**
 
 * [x] 200 (done... aim 375 this year [206]) ★★★★★
-* [ ] take notes of the algorithm (doing... in https://zard0214.github.io) ★☆☆☆☆
+* [ ] take notes of the algorithm (doing... in https://zard0214.github.io) ★★☆☆☆
 
 **📚 BOOKS**
 
@@ -30,7 +30,7 @@
 * [x] 《亲密关系》★★★★★
 * [x] 《如何赢得朋友及影响他人》★★★★★
 * [ ] 《如何让你爱的人爱上你》☆☆☆☆☆
-* [ ] 《乌合之众》☆☆☆☆☆
+* [ ] 《乌合之众》★★☆☆☆
 * [ ] 《社会心理学》★★☆☆☆
 * [ ] 《活着》☆☆☆☆☆
 

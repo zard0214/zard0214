@@ -37,6 +37,6 @@
 
 **📚 PREPARE**
 
-* [ ] resume (has not started) ☆☆☆☆☆
+* [ ] resume ★★☆☆☆
 
 

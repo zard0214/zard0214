@@ -11,7 +11,7 @@
 * [ ] find a specific research area in NLP ☆☆☆☆☆
 * [ ] pandas, xgboost, matplotlib, keras kits  ☆☆☆☆☆
 
-**📚 MATHEMATICS **
+**📚 MATHEMATICS**
 
 * [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆

@@ -2,7 +2,7 @@
 
 **📰 LANGUAGE**
 
-* [ ] python (learning...) ★★☆☆☆
+* [ ] python (learning...) ★★★☆☆
 * [ ] IELTS (6 -> 7) ☆☆☆☆☆
 
 **💻 NLP**
@@ -16,6 +16,7 @@
 * [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆
 * [ ] differential geometry ☆☆☆☆☆ 
+* [ ] statistic ☆☆☆☆☆ 
 
 **💻 LEETCODE**
 

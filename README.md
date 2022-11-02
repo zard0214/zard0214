@@ -16,7 +16,7 @@
 * [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆
 * [ ] differential geometry ☆☆☆☆☆ 
-* [ ] statistic ☆☆☆☆☆ 
+* [ ] statistic ★★☆☆☆ 
 
 **💻 LEETCODE**
 

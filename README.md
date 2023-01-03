@@ -1,3 +1,42 @@
+### 2023  🚩 ToDoList
+
+**📰 LANGUAGE**
+
+
+**💻 NLP**
+
+* [ ] 《Machine Learning》（中文版：计算机科学丛书:机器学习 ）☆☆☆☆☆
+
+**📚 MATHEMATICS**
+
+
+**💻 LEETCODE**
+
+
+**📚 BOOKS**
+
+* [ ] 《Machine Learning》（中文版：计算机科学丛书:机器学习 ）☆☆☆☆☆
+* [ ] 《机器学习》周志华 ☆☆☆☆☆
+* [ ] 《统计学习方法》李航 ☆☆☆☆☆
+* [ ] 《Machine Learning in Action》 P. Harrington ☆☆☆☆☆
+* [ ] 《Pattern Recognition and Machine Learning (模式识别与机器学习)》Christopher M. Bishop ☆☆☆☆☆
+* [ ] 《Machine Learning: A Probabilistic Perspective》K. P. Murphy ☆☆☆☆☆
+* [ ] 《Deep Learning》I. Goodfellow, Y. Bengio and A. Courville ☆☆☆☆☆
+
+<!-- * Arthur Samuel,Some Studies in Machine Learning Using the Game of Checkers
+Tom Mitchell,《Machine Learning（中文版：计算机科学丛书:机器学习 ）》
+知乎，徐子杰，什么是机器学习？<http://www.zhihu.com/question/33892253>
+李航，《统计学习方法》
+《神经网络与深度学习》
+小象学院，邹博，机器学习算法班课程资料
+机器学习思维导图,《机器学习实战》<http://www.pythoner.com/238.html>
+<https://www.analyticsvidhya.com>
+其他相关内容 -->
+
+**📚 PREPARE**
+
+* [ ] resume ★★★☆☆
+
 ### 2022  🚩 ToDoList
 
 **📰 LANGUAGE**

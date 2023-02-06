@@ -36,7 +36,7 @@ Tom Mitchell,《Machine Learning（中文版：计算机科学丛书:机器学�
 **📚 PREPARE**
 
 * [ ] Speech processing 13:30 - 16:00 24/Jan/2023 DIA - Computer Room 2 ☆☆☆☆☆
-* [ ] Test processing 13:30 - 15:30 27/Jan/2023 Goodwin Sports Hall ☆☆☆☆☆
+* [ ] Text processing 13:30 - 15:30 27/Jan/2023 Goodwin Sports Hall ☆☆☆☆☆
 * [ ] Professional issues 13:30 - 15:30 31/Jan/2023 Goodwin Sports Hall ☆☆☆☆☆
 * [ ] Machine learning & adaptive intelligence 09:00 - 11:00 3/Feb/2023 Goodwin Sports Hall ☆☆☆☆☆
 * [ ] Resume (English) ★★★☆☆

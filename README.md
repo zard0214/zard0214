@@ -86,7 +86,7 @@
 **💻 LEETCODE**
 
 * [ ] 375 (done... aim 375 this year [206]) ★★★☆☆
-* [ ] take notes of the algorithm (doing... in https://zard0214.github.io) ★★☆☆☆
+* [ ] take notes of the algorithm (doing... ) ★★☆☆☆
 
 **📚 BOOKS**
 

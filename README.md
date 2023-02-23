@@ -51,15 +51,6 @@
 * [ ] 《怪诞行为学》☆☆☆☆☆
 
 
-<!-- * Arthur Samuel,Some Studies in Machine Learning Using the Game of Checkers
-Tom Mitchell,《Machine Learning（中文版：计算机科学丛书:机器学习 ）》
-知乎，徐子杰，什么是机器学习？<http://www.zhihu.com/question/33892253>
-李航，《统计学习方法》
-《神经网络与深度学习》
-小象学院，邹博，机器学习算法班课程资料
-机器学习思维导图,《机器学习实战》<http://www.pythoner.com/238.html>
-<https://www.analyticsvidhya.com>
-其他相关内容 -->
 
 **📚 PREPARE**
 
@@ -69,6 +60,9 @@ Tom Mitchell,《Machine Learning（中文版：计算机科学丛书:机器学�
 * [ ] Machine learning & adaptive intelligence 09:00 - 11:00 3/Feb/2023 Goodwin Sports Hall ☆☆☆☆☆
 * [ ] Resume (English) ★★★☆☆
 * [ ] Resume (Mandarin) ★★☆☆☆
+
+
+
 ### 2022  🚩 ToDoList
 
 **📰 LANGUAGE**

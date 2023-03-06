@@ -16,11 +16,11 @@
 * [ ] linear algebra ☆☆☆☆☆
 * [ ] calculus ☆☆☆☆☆
 * [ ] differential geometry ☆☆☆☆☆ 
-* [ ] statistic ★★☆☆☆ 
+* [ ] statistic ★★★★☆ 
 
 **💻 LEETCODE**
 
-* [ ] 375 (done... aim 375 this year [206]) ★★★☆☆
+* [ ] 375 (done... aim 375 this year [206] ) ★★★☆☆ (give up)
 * [ ] take notes of the algorithm (doing... ) ★★☆☆☆
 
 **📚 BOOKS**

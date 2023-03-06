@@ -1,5 +1,12 @@
 ### 2023  🚩 ToDoList
 
+
+**📰 Assignments**
+
+* [ ] Reenegineering           3pm/13/05/2023       individul assignment
+* [ ] Team software Project    3pm/11/05/2023       project 
+* [ ] The intelligence web     3pm/19/05/2023       group project
+
 **📰 LANGUAGE**
 
 * [ ] python (learning...) ★★★☆☆

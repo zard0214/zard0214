@@ -1,11 +1,6 @@
 ### 2023  🚩 ToDoList
 
 
-**📰 Assignments**
-
-* [x] Reenegineering           5pm/24/05/2023       individul assignment
-* [x] Team software Project    3pm/11/05/2023       project 
-* [x] The intelligence web     3pm/19/05/2023       group project
 
 **📰 LANGUAGE**
 
@@ -32,6 +27,7 @@
 
 **📚 BOOKS**
 
+* [ ] 《一间自己的房间》☆☆☆☆☆
 * [ ] 《二十四个比利》☆☆☆☆☆
 * [ ] 《厌女》★★★☆☆
 * [ ] 《月亮与六便士》★★★★★

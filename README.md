@@ -8,12 +8,12 @@
 **📰 LANGUAGE**
 
 * [x] python (learning...) ★★★☆☆
-* [ ] IELTS (6 -> 7) ☆☆☆☆☆
+* [ ] IELTS (6 -> 7) ★★★★☆
 
 **💻 NLP**
 
 * [ ] learn basic knowledge in ML/DL (Stanford CS224N lecture) ★★☆☆☆
-* [ ] find a specific research area in NLP ☆☆☆☆☆
+* [ ] find a specific research area in NLP ★★★★★
 * [ ] pandas, xgboost, matplotlib, keras kits  ☆☆☆☆☆
 
 **📚 MATHEMATICS**

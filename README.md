@@ -66,6 +66,10 @@
 * [ ] review key point in resume ☆☆☆☆☆
 
 
+**📚 AIMS**
+
+* [x] find a stable, meaningful job ☆☆☆☆☆
+
 
 ### 2023  🚩 ToDoList
 

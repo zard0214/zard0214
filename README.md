@@ -1,7 +1,3 @@
-<img width="1208" alt="image" src="https://github.com/zard0214/zard0214/assets/82923929/0530cf28-d42c-4310-9a07-5f1c307acf7e">### 2024  🚩 ToDoList
-
-
-
 **📰 LANGUAGE**
 
 * [x] python (learning...) ★★★☆☆
@@ -21,7 +17,7 @@
 **💻 LEETCODE**
 
 * [ ] 375 (done... aim 375 this year [206] ) ★★★☆☆ (give up)
-<img width="1208" alt="image" src="https://github.com/zard0214/zard0214/assets/82923929/2004b593-d190-441f-9ad3-d2a81a8130b6">
+- <img width="1208" alt="image" src="https://github.com/zard0214/zard0214/assets/82923929/2004b593-d190-441f-9ad3-d2a81a8130b6">
 * [ ] take notes of the algorithm (doing... https://zard0214.github.io/) ★★☆☆☆
 
 **📚 BOOKS**

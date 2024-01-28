@@ -18,7 +18,7 @@
 
 * [ ] 375 (done... aim 375 this year [206] ) ★★★☆☆ (give up)
 - <img width="1208" alt="image" src="https://github.com/zard0214/zard0214/assets/82923929/2004b593-d190-441f-9ad3-d2a81a8130b6">
-* [ ] take notes of the algorithm (doing... https://zard0214.github.io/) ★★☆☆☆
+* [ ] take notes of the algorithm (doing... https://zard0214.github.io/ https://github.com/zard0214/sisyphus-algorithm) ★★☆☆☆
 
 **📚 BOOKS**
 

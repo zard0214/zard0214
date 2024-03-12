@@ -12,9 +12,9 @@
 
 **📚 MATHEMATICS**
 
-* [ ] linear algebra ☆☆☆☆☆
+* [ ] linear algebra ★★★☆☆
 * [ ] calculus ☆☆☆☆☆
-* [ ] differential geometry ☆☆☆☆☆ 
+* [ ] differential geometry ★★☆☆☆ 
 * [ ] statistic ★★★★★
 
 **💻 LEETCODE**
